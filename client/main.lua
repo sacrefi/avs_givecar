@@ -78,7 +78,8 @@ AddEventHandler('esx_giveownedcar:spawnVehiclePlate',
                             _U('gived_car', model, newPlate, playerName))
                     else
                         local msg = ('addCar: ' .. model .. ', plate: ' ..
-                                        newPlate .. ', toPlayer: ' .. playerName)
+                                        newPlate .. ', to Player: ' ..
+                                        playerName)
                         TriggerServerEvent('esx_giveownedcar:printToConsole',
                                            msg)
                     end

@@ -1,12 +1,4 @@
-# **Disclaimer**
-This script is just a fork of MEENO for esx_advancevehicleshop.
-Original script FiveM Forum Release: https://forum.cfx.re/t/release-esx-give-or-delete-car-to-owned-vehicle-database-plate-can-custom-or-random-spawn/1050821
-Original script github repository: https://github.com/minobear/esx_giveownedcar
-
-ESX Advanced Vehicle Shop link: https://github.com/HumanTree92/esx_advancedvehicleshop
-
-
-# **Description:**
+# **Depiction:**
 This plugin you can give vehicle with custom or random plate number into player's garage with command
 also you can delete a vehicle by plate
 
@@ -28,3 +20,5 @@ _delcarplate <plate>
 * es_extended
 * essentialmode
 * esx_advancedvehicleshop 
+
+Original script FiveM Forum Release:https://forum.cfx.re/t/release-esx-give-or-delete-car-to-owned-vehicle-database-plate-can-custom-or-random-spawn/1050821
